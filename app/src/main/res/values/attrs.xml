@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="WatchView">
+        <attr name="positionX" format="float" />
+        <attr name="positionY" format="float" />
+        <attr name="radius" format="float" />
+        <attr name="handStroke" format="float" />
+        <attr name="longColor" format="color" />
+        <attr name="shortColor" format="color" />
+        <attr name="backDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
